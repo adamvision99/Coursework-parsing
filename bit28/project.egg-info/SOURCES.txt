@@ -1,0 +1,13 @@
+setup.py
+bit28/__init__.py
+bit28/items.py
+bit28/middlewares.py
+bit28/pipelines.py
+bit28/settings.py
+bit28/spiders/__init__.py
+bit28/spiders/scraper.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
