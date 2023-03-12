@@ -1,0 +1,13 @@
+setup.py
+onlinetrade/__init__.py
+onlinetrade/items.py
+onlinetrade/middlewares.py
+onlinetrade/pipelines.py
+onlinetrade/settings.py
+onlinetrade/spiders/__init__.py
+onlinetrade/spiders/scraper.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
